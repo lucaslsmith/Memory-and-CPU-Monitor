@@ -1,0 +1,10 @@
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\obj\Debug\MemoryCPUMonitor.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\obj\Debug\MemoryCPUMonitor.Form1.resources
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\obj\Debug\MemoryCPUMonitor.Properties.Resources.resources
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\obj\Debug\MemoryCPUMonitor.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\obj\Debug\MemoryCPUMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\bin\Debug\MemoryCPUMonitor.exe.config
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\bin\Debug\MemoryCPUMonitor.exe
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\bin\Debug\MemoryCPUMonitor.pdb
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\obj\Debug\MemoryCPUMonitor.exe
+C:\Users\Lucas\Desktop\MemoryCPUMonitor\MemoryCPUMonitor\obj\Debug\MemoryCPUMonitor.pdb
